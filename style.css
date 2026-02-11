@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  position: relative;
+  color: white;
+}
+
+p {
+  color: white;
+  position: relative;
+  top: 50px;
+}
+
+button {
+  position: relative;
+  top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
